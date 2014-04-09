@@ -1,0 +1,54 @@
+body
+{
+background-color:green; 
+    margin-top: 10px;
+	background-image: url(casa.jpeg);
+	background-repeat: no-repeat;
+	background-size: 600px 400px;
+	width: 600px;
+	height: 400px;
+}
+#boton
+{
+margin-top:150px; 
+background: red;
+}
+#imagen, #imagen2
+ {
+   width: 50px;
+   height: 95px;
+   border: 1px solid red;
+ }
+ 
+ .caminar
+ {
+   background: url(gary.png) no-repeat top left;
+
+ }
+.baja1{ background-position: 0 0; width: 50px; height: 100px; } 
+.baja2{ background-position: 0 -150px; width: 50px; height: 100px; } 
+.baja3{ background-position: 0 -300px; width: 50px; height: 100px; } 
+.baja4{ background-position: 0 -450px; width: 50px; height: 100px; } 
+.baja5{ background-position: 0 -600px; width: 50px; height: 100px; } 
+.baja6{ background-position: 0 -750px; width: 50px; height: 100px; } 
+.derecha1{ background-position: 0 -900px; width: 50px; height: 100px; } 
+.derecha2{ background-position: 0 -1050px; width: 50px; height: 100px; } 
+.derecha3{ background-position: 0 -1200px; width: 50px; height: 100px; } 
+.derecha4{ background-position: 0 -1350px; width: 50px; height: 100px; } 
+.derecha5{ background-position: 0 -1500px; width: 50px; height: 100px; } 
+.derecha6{ background-position: 0 -1650px; width: 50px; height: 100px; } 
+.izquierda1{ background-position: 0 -1800px; width: 50px; height: 100px; } 
+.izquierda2{ background-position: -100px 0; width: 50px; height: 100px; } 
+.izquierda3{ background-position: -100px -150px; width: 50px; height: 100px; } 
+.izquierda4{ background-position: -100px -300px; width: 50px; height: 100px; } 
+.izquierda5{ background-position: -100px -450px; width: 50px; height: 100px; } 
+.izquierda6{ background-position: -100px -600px; width: 50px; height: 100px; } 
+.sube1{ background-position: -100px -750px; width: 50px; height: 100px; } 
+.sube2{ background-position: -100px -900px; width: 50px; height: 100px; } 
+.sube3{ background-position: -100px -1050px; width: 50px; height: 100px; } 
+.sube4{ background-position: -100px -1200px; width: 50px; height: 100px; } 
+.sube5{ background-position: -100px -1350px; width: 50px; height: 100px; } 
+.sube6{ background-position: -100px -1500px; width: 50px; height: 100px; } 
+
+
+
